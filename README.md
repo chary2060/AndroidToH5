@@ -1,2 +1,2 @@
 # AndroidToH5
-android原生工程添加cordovalib和自定义插件
+android原生工程添加cordovalib和一个简单的自定义插件-Toast
